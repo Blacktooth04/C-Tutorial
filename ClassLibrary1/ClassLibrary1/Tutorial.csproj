@@ -108,6 +108,8 @@
   <ItemGroup>
     <Compile Include="DataConversion.cs" />
     <Compile Include="DataTypes.cs" />
+    <Compile Include="AccessModifiers.cs" />
+    <Compile Include="Methods.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\ClassLibrary1.rd.xml" />
   </ItemGroup>

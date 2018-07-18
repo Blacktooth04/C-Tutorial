@@ -62,5 +62,10 @@ namespace Tutorial
         char mySingleChar = 'C';
         char myChar = "Cat"[0]; // will print "C" as it is the first index
 
+
+        // constants
+        // const values cannot be changed
+        const double pi = 3.1459;
+
     }
 }
