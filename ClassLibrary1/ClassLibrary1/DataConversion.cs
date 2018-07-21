@@ -50,9 +50,12 @@ namespace Tutorial
             // valid
             string myString = "17";
             int myInt = Int32.Parse(myString);
+            int myTryInt = Int32.TryParse(myString); // will not crash if input string is not parseable
             // invalid
             string secondString = "cat";
             int secondInt = Int32.Parse(secondString);
+            int SecondTryInt = Int32.TryParse(myString); 
+
         }
 
     }

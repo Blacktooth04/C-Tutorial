@@ -29,7 +29,19 @@ namespace Tutorial
         // void methods return nothing, but it can do things
         void returnNothing()
         {
+            
+        }
 
+        // method that expects an int to be returned
+        private int returnInt(int input)
+        {
+            return input++; // add one to the int passed through the method and return it
+        }
+
+        private string returnString()
+        {
+            string myString = 'This is a string';
+            return myString;
         }
     }
 }
