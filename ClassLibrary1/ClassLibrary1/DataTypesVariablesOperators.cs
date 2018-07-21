@@ -122,6 +122,9 @@ namespace Tutorial
             complete = num2 != num1; // returns true or false 
             // ==, is equal to
             complete = num2 == num1; // returns true or false
+            // compare strings with .Equals
+            string test = "test";
+            complete = test.Equals("test");
 
             // ARITHMETIC OPERATORS
             // +, -, *, /

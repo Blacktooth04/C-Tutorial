@@ -109,6 +109,8 @@
     <Compile Include="DataConversion.cs" />
     <Compile Include="DataTypesVariablesOperators.cs" />
     <Compile Include="AccessModifiers.cs" />
+    <Compile Include="IfElseSwitch.cs" />
+    <Compile Include="Loops.cs" />
     <Compile Include="Methods.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TryCatch.cs" />
