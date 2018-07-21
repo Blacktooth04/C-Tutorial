@@ -107,10 +107,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="DataConversion.cs" />
-    <Compile Include="DataTypes.cs" />
+    <Compile Include="DataTypesVariablesOperators.cs" />
     <Compile Include="AccessModifiers.cs" />
     <Compile Include="Methods.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TryCatch.cs" />
     <Compile Include="UserInput.cs" />
     <EmbeddedResource Include="Properties\ClassLibrary1.rd.xml" />
   </ItemGroup>
